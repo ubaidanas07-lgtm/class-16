@@ -1,0 +1,17 @@
+
+.one{
+   align-items: center;
+   justify-content: center;
+   display: flex;
+   border-radius: 2px 2px 2px 2px;
+   
+}
+.two{
+   
+    color: white;
+}
+h1{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
